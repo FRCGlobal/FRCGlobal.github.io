@@ -14,7 +14,8 @@
 }
 .Telegram_logo{
 	position:absolute;
-	top:;
+	top:100px;
+	left:50vw-32px;
 }
 .PageHeader{
 	position:absolute;
