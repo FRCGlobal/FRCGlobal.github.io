@@ -14,7 +14,8 @@
 	width: 64;
 }
 #PageHeader{
-	width: 300;
-	margin: auto;
+	position:absolute;
+	top:50dp;
+	left:50vw;
 }
 
