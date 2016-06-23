@@ -15,7 +15,8 @@
 }
 .PageHeader{
 	position:absolute;
+	width:10vw;
 	top:50dp;
-	left:50vw;
+	left:45vw;
 }
 
