@@ -1,7 +1,7 @@
 .PageTitle{
 	color: #555555;
 	font-size: 50px;
-	font-family: "Comic Sans MS";
+	font-family: "Arial";
 	font-style:bold;
 	text-align:center;
 	
@@ -21,7 +21,7 @@
 	position:absolute;
 	width:20vw;
 	height:10vw;
-	top:150px;
+	top:170px;
 	left:40vw;
 }
 
