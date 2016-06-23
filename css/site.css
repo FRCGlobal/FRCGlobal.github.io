@@ -4,11 +4,13 @@
 	font-family: "Arial";
 	font-style:bold;
 	text-align:center;
+	margin-bottom:3px;
 	
 }
 .PageSubtitle{
 	color:#555555;
 	text-align:center;
+	margin-top:5px
 	font-family:"HelveticaNeue-Light";
 	font-size:20px;
 	
