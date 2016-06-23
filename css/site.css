@@ -3,6 +3,7 @@
 	font-size: 64px;
 	font-family: "Comic Sans MS";
 	font-style:bold;
+	
 }
 #PageSubtitle{
 	color:"#888888";
@@ -10,7 +11,10 @@
 }
 #PageHeader{
 	float:left;
+	width: 600;
 }
 #Telegram_logo{
 	float:left;
+	width: 64;
+	height: 64;
 }
