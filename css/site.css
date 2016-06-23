@@ -11,9 +11,10 @@
 }
 #Telegram_logo{
 	margin: auto;
+	width: 64;
 }
 #PageHeader{
-	width: 600;
+	width: 50%
 	margin: auto;
 }
 
