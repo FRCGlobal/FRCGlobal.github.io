@@ -9,12 +9,11 @@
 	color:#888888;
 	
 }
+#Telegram_logo{
+	margin: auto;
+}
 #PageHeader{
 	width: 600;
-	float:center;
-	margin: 0 0 10px 10px;
+	margin: auto;
 }
-#Telegram_logo{
-	float:center;
-	margin: 0 0 10px 10px;
-}
+
