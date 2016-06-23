@@ -3,20 +3,24 @@
 	font-size: 64px;
 	font-family: "Comic Sans MS";
 	font-style:bold;
+	text-align:center;
 	
 }
 #PageSubtitle{
 	color:#888888;
+	text-align:center;
+	font-size:20px;
 	
 }
 #Telegram_logo{
-	margin: auto;
-	width: 64;
+	position:absolute;
+	top:;
 }
 .PageHeader{
 	position:absolute;
-	width:10vw;
-	top:50dp;
+	width:20vw;
+	height:10vw;
+	top:150px;
 	left:45vw;
 }
 
