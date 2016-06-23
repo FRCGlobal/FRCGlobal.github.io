@@ -11,10 +11,10 @@
 }
 #PageHeader{
 	width: 600;
-	float:left;
+	float:center;
 	margin: 0 0 10px 10px;
 }
 #Telegram_logo{
-	float:left;
+	float:center;
 	margin: 0 0 10px 10px;
 }
