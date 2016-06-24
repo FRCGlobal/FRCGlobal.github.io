@@ -22,7 +22,7 @@ a {
 #Telegram_logo{
 	position:absolute;
 	top:89px;
-	left:42vw;
+	left:Calc(50vw - 64px);
 }
 #PageHeader{
 	position:absolute;
