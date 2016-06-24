@@ -46,6 +46,10 @@ a {
 	float:right;
 	height:40px;
 	width:40px;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
 }
 #headericon.currentPage{
 	font-weight:bold;
