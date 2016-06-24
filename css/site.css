@@ -46,8 +46,7 @@ a {
 	float:right;
 	height:32px;
 	width:32px;
-	margin-top:4px;
-	margin-right:4px;
+	float-offset:4px;
 }
 #headericon.currentPage{
 	font-weight:bold;
