@@ -10,21 +10,49 @@
 .PageSubtitle{
 	color:#555555;
 	text-align:center;
-	margin-top:5px
-	font-family:"HelveticaNeue-Light";
+	margin-top:2px
+	font-family:"HelveticaNeue-Light",serif;
 	font-size:20px;
 	
 }
 .Telegram_logo{
 	position:absolute;
 	top:89px;
-	left:45vw;
+	left:43vw;
 }
 .PageHeader{
 	position:absolute;
 	width:30vw;
-	height:10vw;
+	height:10vh;
 	top:200px;
 	left:35vw;
 }
+
+.navbar{
+	border-bottom:1px;
+	border-bottom-color:#e8e8e8;
+	box-shadow:none;
+	position:absolute;
+	top:0px;
+	left:0px;
+	height:30px;
+	width:100vw;
+}
+
+#impact{
+	color:#0088cc;
+	font-weight:normal;
+	font-family:"HelveticaNeue-Light",serif;
+	box-shadow:none;
+}
+
+#impact:hover {
+	font-weight:bold;
+	box-shadow:0px 3px 1px #0066aa;
+}
+
+
+
+
+
 
