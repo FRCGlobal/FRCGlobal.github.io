@@ -35,9 +35,8 @@
 	position:absolute;
 	top:0px;
 	left:0px;
-	height:30px;
+	height:40px;
 	width:100vw;
-	background:yellow;
 }
 #headericon.currentPage{
 	font-weight:bold;
@@ -51,6 +50,8 @@
 	box-shadow:none;
 	width:200px;
 	float:left;
+	height:40px;
+	
 }
 
 #headericon:hover {
