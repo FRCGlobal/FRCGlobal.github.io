@@ -45,8 +45,8 @@ a {
 #telegramlogo{
 	float:right;
 	height:32px;
-	width:32px;
-	float-offset:4px;
+	width:40px;
+	
 }
 #headericon.currentPage{
 	font-weight:bold;
