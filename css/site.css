@@ -37,6 +37,7 @@
 	left:0px;
 	height:30px;
 	width:100vw;
+	background:yellow;
 }
 #headericon.currentPage{
 	font-weight:bold;
@@ -48,8 +49,8 @@
 	font-weight:normal;
 	font-family:"HelveticaNeue-Light",serif;
 	box-shadow:none;
-	width:10vw;
-	align:left;
+	width:200px;
+	float:left;
 }
 
 #headericon:hover {
