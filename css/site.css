@@ -11,14 +11,14 @@
 	color:#555555;
 	text-align:center;
 	margin-top:2px
-	font-family:"HelveticaNeue-Light",serif;
+	font-family:"Arial",serif;
 	font-size:20px;
 	
 }
 #Telegram_logo{
 	position:absolute;
 	top:89px;
-	left:43vw;
+	left:calc(50vw-(128/2));
 }
 #PageHeader{
 	position:absolute;
@@ -46,7 +46,7 @@
 #headericon{
 	color:#0088cc;
 	font-weight:normal;
-	font-family:"HelveticaNeue-Light",serif;
+	font-family:"Arial",serif;
 	box-shadow:none;
 	width:100px;
 	float:left;
