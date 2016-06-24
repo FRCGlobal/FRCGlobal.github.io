@@ -57,7 +57,8 @@
 #headericon:hover {
 	font-weight:bold;
 	box-shadow:0px 3px 0px #0066aa;
-	-webkit-transition:box-shadow .2s ease-in
+	-webkit-transition:font-weight .2s ease-in;
+	-webkit-transition:box-shadow .2s ease-in;
 }
 
 
