@@ -7,6 +7,10 @@
 	margin-bottom:3px;
 	
 }
+a {
+	color: inherit;
+	text-decoration:inherit;
+}
 #PageSubtitle{
 	color:#555555;
 	text-align:center;
@@ -18,7 +22,7 @@
 #Telegram_logo{
 	position:absolute;
 	top:89px;
-	left:calc(50vw-(128/2));
+	left:42vw;
 }
 #PageHeader{
 	position:absolute;
