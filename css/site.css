@@ -35,7 +35,7 @@ a {
 #navbar{
 	border-bottom:1px;
 	border-bottom-color:#e8e8e8;
-	box-shadow:none;
+	box-shadow:0px 1px 0px #e8e8e8;
 	position:absolute;
 	top:0px;
 	left:0px;
