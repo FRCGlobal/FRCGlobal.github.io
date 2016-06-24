@@ -57,6 +57,7 @@
 	font-family:"HelveticaNeue-Light",serif;
 	box-shadow:none;
 	width:10vw;
+	align:left;
 }
 
 #headericon:hover {
