@@ -38,17 +38,9 @@
 	height:30px;
 	width:100vw;
 }
-
-#home{
-	color:#0088cc;
-	font-weight:normal;
-	font-family:"HelveticaNeue-Light",serif;
-	box-shadow:none;
-	width:10vw;
-}
-#home:hover{
+.currentPage{
 	font-weight:bold;
-	box-shadow:0px 3px 1px #0066aa;
+	box-shadow:0px 3px 0px #0066aa;
 }
 
 #headericon{
@@ -62,7 +54,7 @@
 
 #headericon:hover {
 	font-weight:bold;
-	box-shadow:0px 3px 1px #0066aa;
+	box-shadow:0px 3px 0px #0066aa;
 	-webkit-transition:box-shadow .2s ease-in
 }
 
