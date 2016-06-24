@@ -19,7 +19,7 @@ a {
 	font-size:20px;
 	
 }
-#Telegram_logo{
+#FRCGlobal-logo{
 	position:absolute;
 	top:89px;
 	left:Calc(50vw - 64px);
@@ -41,6 +41,11 @@ a {
 	left:0px;
 	height:40px;
 	width:100vw;
+}
+#telegramlogo{
+	float:right;
+	height:40px;
+	width:40px;
 }
 #headericon.currentPage{
 	font-weight:bold;
