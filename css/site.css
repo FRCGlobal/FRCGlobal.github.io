@@ -11,6 +11,9 @@ a {
 	color: inherit;
 	text-decoration:inherit;
 }
+#Rules{
+	line-height:200%;
+}
 #PageSubtitle{
 	color:#555555;
 	text-align:center;
